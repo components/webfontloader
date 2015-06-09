@@ -1,7 +1,7 @@
 {
   "name": "components-webfontloader",
   "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
-  "version": "1.5.2",
+  "version": "1.6.3",
   "keywords": [
     "components",
     "webfontloader"
