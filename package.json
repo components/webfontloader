@@ -17,8 +17,8 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
-  "main": "webfont.js",
+  "main": "webfontloader.js",
   "browser": {
-    "webfontloader": "webfont.js"
+    "webfontloader": "webfontloader.js"
   }
 }
