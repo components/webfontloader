@@ -11,7 +11,7 @@
   "extra": {
     "component": {
       "scripts": [
-        "webfont.js"
+        "webfontloader.js"
       ]
     }
   }

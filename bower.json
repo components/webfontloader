@@ -8,7 +8,7 @@
   	"webfontloader"
   ],
   "main": [
-    "webfont.js"
+    "webfontloader.js"
   ],
   "ignore": [
   	"component.json",
